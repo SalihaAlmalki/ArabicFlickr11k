@@ -1,3 +1,3 @@
-#**ArabicFlickr11k Dataset**
+# **ArabicFlickr11k Dataset**
 
 Arabic dataset for Arabic Image Captioning.
